@@ -1,0 +1,11 @@
+10
+NaN 0 -1 OFF 0 
+JOJO 0 0 POINTER 1 
+NaN 0 -1 OFF 0 
+NaN 0 -1 OFF 0 
+NaN 0 -1 OFF 0 
+NaN 0 -1 OFF 0 
+NaN 0 -1 OFF 0 
+NaN 0 -1 OFF 0 
+NaN 0 -1 OFF 0 
+NaN 0 -1 OFF 0 
